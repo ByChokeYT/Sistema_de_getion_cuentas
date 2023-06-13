@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "autopep8",
+    "C_Cpp.default.compilerPath": "c:\\Users\\choqu\\Downloads\\Valuto-Account-Management-System-master\\main.cpp"
+}
